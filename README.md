@@ -8,11 +8,11 @@ Explanation to files
 
 1 Mfit1.m 
 
-The denoising part of the algorithm. Those are the codes of Step 1 to Step 4 of the algorithm.
+The denoising part of the algorithm corresponding to Algorithm 1 in the paper.
 
 2 Mfit2.m
 
-The interpolation part of the algorithm. Those are codes of Step 6 of the algorithm. It uses the results of final iteration of Mfit1.m as the inputs.
+The interpolation part of the algorithmc orresponding to Algorithm 2 in the paper.
 
 3 Cassini oval.mat
 
