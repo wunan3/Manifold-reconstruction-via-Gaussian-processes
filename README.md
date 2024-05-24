@@ -20,7 +20,7 @@ The Cassini Oval dataset in the Appendix. X is the noisy dataset. M11 is a large
 
 4 RP3.mat
 
-The RP3 dataset in the paper. X is the noisy dataset. M11 is a large clean dataset on the torus in order to check the GRMSE defined in the paper.
+The RP3 dataset in the paper. X is the noisy dataset. M0 and M1 are the denoised outputs after the first and the second rounds of the iteration respectively. M2 consists of 12000 interpolations. The users may apply the formula in the paper to generate huge clean data set on RP3 and check the GRMSE of the outputs.
 
 5 Spectrum.mat
 
