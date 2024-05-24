@@ -32,3 +32,6 @@ Apply reshape(Y1(i,:),75,197) and imagesc to visualize the data.
 The bird vocalization data in section 5. Y0 consists of 83 more noisy spectrograms of Anthus trivialis. Y1 consists of 10 (out of 830) generated spectrograms around sample 1. 
 Apply reshape(Y1(i,:),75,197) and imagesc to visualize the data.
 
+7 half torus bounded.mat
+
+The manifold with boundary dataset with non isotropic noise in the Appendix. X is the noisy dataset. M11 is a large clean dataset on the curve in order to check the GRMSE defined in the paper.
