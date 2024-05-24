@@ -16,11 +16,11 @@ The interpolation part of the algorithmc orresponding to Algorithm 2 in the pape
 
 3 Cassini oval.mat
 
-The Cassini Oval dataset in the paper. X is the noisy dataset. M11 is a large clean dataset on the curve in order to check the GRMSE defined in the paper.
+The Cassini Oval dataset in the Appendix. X is the noisy dataset. M11 is a large clean dataset on the curve in order to check the GRMSE defined in the paper.
 
-4 torus.mat
+4 RP3.mat
 
-The torus dataset in the paper. X is the noisy dataset. M11 is a large clean dataset on the torus in order to check the GRMSE defined in the paper.
+The RP3 dataset in the paper. X is the noisy dataset. M11 is a large clean dataset on the torus in order to check the GRMSE defined in the paper.
 
 5 Spectrum.mat
 
