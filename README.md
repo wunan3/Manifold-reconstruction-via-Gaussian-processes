@@ -24,12 +24,12 @@ The RP3 dataset in the paper. X is the noisy dataset. M0 and M1 are the denoised
 
 5 Vocal1.mat
 
-The bird vocalization data in the introdution. Y0 consists of 83 spectrograms of Anthus trivialis. Y1 consists of 10 (out of 830) generated spectrograms around sample 1. 
+The bird vocalization data in the introdution. Y0 consists of 83 normalized spectrograms of Anthus trivialis. Y1 consists of 10 (out of 830) generated spectrograms around sample 1. 
 Apply reshape(Y1(i,:),75,197) and imagesc to visualize the data.
 
 6 Vocal2.mat 
 
-The bird vocalization data in section 5. Y0 consists of 83 more noisy spectrograms of Anthus trivialis. Y1 consists of 10 (out of 830) generated spectrograms around sample 1. 
+The bird vocalization data in section 5. Y0 consists of 83 more noisy normalized spectrograms of Anthus trivialis. Y1 consists of 10 (out of 830) generated spectrograms around sample 1. 
 Apply reshape(Y1(i,:),75,197) and imagesc to visualize the data.
 
 7 half torus bounded.mat
