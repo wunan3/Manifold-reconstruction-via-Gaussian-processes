@@ -22,7 +22,13 @@ The Cassini Oval dataset in the Appendix. X is the noisy dataset. M11 is a large
 
 The RP3 dataset in the paper. X is the noisy dataset. M0 and M1 are the denoised outputs after the first and the second rounds of the iteration respectively. M2 consists of 12000 interpolations. The users may apply the formula in the paper to generate huge clean data set on RP3 and check the GRMSE of the outputs.
 
-5 Spectrum.mat
+5 Vocal1.mat
 
-The reflecatance spectra of the 86 wheat samples discussed in the paper.
+The bird vocalization data in the introdution. Y0 consists of 83 spectrograms of Anthus trivialis. Y1 consists of 10 (out of 830) generated spectrograms around sample 1. 
+Apply reshape(Y1(i,:),75,197) and imagesc to visualize the data.
+
+6 Vocal2.mat 
+
+The bird vocalization data in section 5. Y0 consists of 83 more noisy spectrograms of Anthus trivialis. Y1 consists of 10 (out of 830) generated spectrograms around sample 1. 
+Apply reshape(Y1(i,:),75,197) and imagesc to visualize the data.
 
